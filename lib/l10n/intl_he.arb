@@ -1,0 +1,8 @@
+{
+   "@@locale": "he",  
+  "helloWorld": "שלום לך",
+  "@helloWorld": {
+    "description": "The standard hello world greeting"
+  },
+  "register_system": "הרשמה למערכת"
+}
